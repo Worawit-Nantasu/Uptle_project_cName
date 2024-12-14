@@ -1,0 +1,20 @@
+# Logs
+logs/*
+
+# Outputs
+/data/output/*
+/data/img_renamed/*
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
